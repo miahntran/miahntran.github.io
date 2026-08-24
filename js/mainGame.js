@@ -1,5 +1,5 @@
 const gameData = {
-    "1": {
+    "2": {
         "text": "You and your veggie friends want to hangout in VeggieVille. What snacks are you bringing?",
         "image" : "smaller_images/snackies.png",
 "choices": {
@@ -9,7 +9,7 @@ const gameData = {
             "Crackers and cheese": [2, ["Green Bean", "Carrot"]]
         }
     },
-    "2": {
+    "1": {
         "text": " Where are you guys going to go?",
         "image" : "smaller_images/where_to.png",
 "choices": {
