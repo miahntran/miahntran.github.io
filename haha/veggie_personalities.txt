@@ -1,5 +1,5 @@
 Jalapeno
-	You and your veggie friends want to hangout in VeggieVille. What snacks are you bringing?
+	You want to hangout in VeggieVille. What snacks are you bringing?
 	Beef sticks
 	 Where are you guys going to go?
 	Mount Evergetable
