@@ -10,7 +10,7 @@ const gameData = {
         }
     },
     "2": {
-        "text": " Where are you guys going to go?",
+        "text": " I enjoy meeting new people whenever I get the chance.",
         "image" : "smaller_images/where_to.png",
 "choices": {
             "The beach": [3, ["Onion", "Green Bean", "Bok Choy"]],
