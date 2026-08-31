@@ -483,6 +483,8 @@ const gameData = {
             "Lead the pack using your knowledge of Cheese Land geography": [20,["Garlic"]]
         }
     }
+
+
 };
 const personalities = { 
     "Onion": 0,
