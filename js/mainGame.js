@@ -1,6 +1,6 @@
 const gameData = {
     "1": {
-        "text": "You want to hangout in VeggieVille. What snacks are you bringing?",
+        "text": "I feel energized after spending time with large groups of people.",
         "image" : "smaller_images/snackies.png",
 "choices": {
             "Beef sticks": [2,["Jalapeno","Bok Choy"]],
