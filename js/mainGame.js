@@ -40,7 +40,7 @@ const gameData = {
         }
     },
     "5": {
-        "text": "I enjoy experimenting with different ways of doing things over traditional methods.,
+        "text": "I enjoy experimenting with different ways of doing things over traditional methods.",
         "image" : "smaller_images/in_pantry.png",   
 "choices": {
             "Everyone sprint for the nearby window!": [6,["Jalapeno"]],
@@ -102,8 +102,7 @@ const gameData = {
         }
     },
     "12" : {
-        "text": "I believe maintaining relationships is more important than winning an 
-          argument.",
+        "text": "I believe maintaining relationships is more important than winning an argument.",
         "image" : "smaller_images/glowing_space_orb.png",
 "choices":{
             "Is this the end?": [13, ["Potato", "Napa Cabbage"]],
@@ -112,7 +111,7 @@ const gameData = {
         }
     },
     "13": {
-        "text": "On a free afternoon, you'd rather..."",
+        "text": "On a free afternoon, you'd rather...",
         "image" : "smaller_images/glowing_popcorn.png",
 "choices": {
             "Thanks...": [14,["Potato"]],
@@ -254,7 +253,7 @@ const gameData = {
         }
     },
     "28": {
-        "text": "Which of these are you MOST likely to do? social orientation)",
+        "text": "Which of these are you MOST likely to do? social orientation",
         "image" : "smaller_images/boat.png",
 "choices":{
             "Mushroom Island, known for pioneering mushroom tech": [29,["Tomato", "Onion", "Leek"]],
