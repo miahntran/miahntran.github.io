@@ -14,9 +14,9 @@ const gameData = {
         "image" : "smaller_images/where_to.png",
 "choices": {
             "The beach": [3, ["Onion", "Green Bean", "Bok Choy"]],
-            "A cute book store": [4,["Broccoli", "Tomato","Leek", "Carrot"]],
-            "Your friend's apartment": [5,["Pumpkin", "Potato", "Napa Cabbage"]],
-            "Mount Evergetable": [6, ["Garlic", "Jalapeno"]]
+            "A cute book store": [3,["Broccoli", "Tomato","Leek", "Carrot"]],
+            "Your friend's apartment": [3,["Pumpkin", "Potato", "Napa Cabbage"]],
+            "Mount Evergetable": [3, ["Garlic", "Jalapeno"]]
         }
     },
     "3": {
