@@ -20,7 +20,7 @@ const gameData = {
         }
     },
     "3": {
-        "text": "After gearing up with sunglasses and sunscreen, what beach activity are you looking forward to?",
+        "text": "I usually think through my ideas before sharing them.",
         "image" : "smaller_images/at_beach.png",
 "choices": {
             "Build a sandcastle with your friends!": [41,["Garlic"]],
